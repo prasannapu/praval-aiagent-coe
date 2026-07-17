@@ -1,7 +1,7 @@
 [
   {"name": "Microsoft", "revenue_millions": 2.4, "health": "Medium", "segment": "Strategic"},
   {"name": "Contoso Retail", "revenue_millions": 1.8, "health": "Green", "segment": "Enterprise"},
-  {"name": "Fabrikam Manufacturing", "revenue_millions": "health": "Green", "segment": "Enterprise"},
+  {"name": "Fabrikam Manufacturing", "revenue_millions": "health": "Orange", "segment": "Enterprise"},
   {"name": "Northwind Health", "revenue_millions": 0.9, "health": "At Risk", "segment": "Growth"},
   {"name": "Adventure Works", "revenue_millions": 0.7, "health": "Green", "segment": "Growth"}
 ]
