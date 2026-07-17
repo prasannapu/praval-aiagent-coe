@@ -1,0 +1,5 @@
+{
+  "application": "Enterprise AI Agent Platform POC",
+  "gemini": {"model": "gemini-2.0-flash", "api_key_environment_variable": "GEMINI_API_KEY"},
+  "mcp_servers": ["Filesystem MCP", "GitHub MCP"]
+}

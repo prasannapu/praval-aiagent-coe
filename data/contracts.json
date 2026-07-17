@@ -1,0 +1,7 @@
+[
+  {"customer": "Microsoft", "renewal_date": "2027-01-15", "value_millions": 2.4, "status": "Active"},
+  {"customer": "Contoso Retail", "renewal_date": "2026-10-01", "value_millions": 1.8, "status": "Active"},
+  {"customer": "Fabrikam Manufacturing", "renewal_date": "2027-03-30", "value_millions": 1.3, "status": "Active"},
+  {"customer": "Northwind Health", "renewal_date": "2026-09-15", "value_millions": 0.9, "status": "At Risk"},
+  {"customer": "Adventure Works", "renewal_date": "2027-06-01", "value_millions": 0.7, "status": "Active"}
+]

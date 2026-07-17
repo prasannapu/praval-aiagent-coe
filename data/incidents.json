@@ -1,0 +1,9 @@
+[
+  {"id": "INC-1042", "customer": "Microsoft", "severity": "High", "status": "Open", "summary": "Identity synchronization latency"},
+  {"id": "INC-1048", "customer": "Microsoft", "severity": "Critical", "status": "Open", "summary": "Data processing backlog"},
+  {"id": "INC-1050", "customer": "Microsoft", "severity": "Medium", "status": "Open", "summary": "Reporting export delay"},
+  {"id": "INC-1053", "customer": "Contoso Retail", "severity": "High", "status": "Open", "summary": "Store feed reconciliation"},
+  {"id": "INC-1055", "customer": "Northwind Health", "severity": "High", "status": "Open", "summary": "Role provisioning failure"},
+  {"id": "INC-1057", "customer": "Northwind Health", "severity": "Low", "status": "Open", "summary": "Dashboard filter issue"},
+  {"id": "INC-1030", "customer": "Fabrikam Manufacturing", "severity": "Low", "status": "Resolved", "summary": "Connector timeout"}
+]
