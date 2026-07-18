@@ -1,5 +1,5 @@
 [
-  {"name": "Microsoft", "revenue_millions": 2.4, "health": "Medium", "segment": "Strategic"},
+  {"name": "Microsoft", "revenue_millions": 2.4, "health": "Pink", "segment": "Strategic"},
   {"name": "Contoso Retail", "revenue_millions": 7.7, "health": "Amber", "segment": "Enterprise"},
   {"name": "Fabrikam Manufacturing", "revenue_millions": 1.3, "health": "Orange", "segment": "Enterprise"},
   {"name": "Northwind Health", "revenue_millions": 0.8, "health": "At Risk", "segment": "Growth"},
